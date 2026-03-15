@@ -5,7 +5,6 @@ Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
-
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
 2	Ammeter	(0-2.5)A	MC	1
@@ -15,7 +14,6 @@ Sl .no	Apparatus	Range	Type	Quantity
 6	Connecting wires	-	-	As required
 
 Fuse rating calculation for field and armature:
-
 No load test
 10 % of rated current (full load current)
 Load test
@@ -45,22 +43,18 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-
 <img width="1059" height="1280" alt="image" src="https://github.com/user-attachments/assets/ff0d806a-e65a-4120-91e3-1542f531ebc0" />
-Tabulation for Load Test:
 
+Tabulation for Load Test:
 <img width="1165" height="1280" alt="image" src="https://github.com/user-attachments/assets/30a04de7-d303-4d0e-bc13-7c81129476b2" />
 Model graph:
 <img width="983" height="1280" alt="image" src="https://github.com/user-attachments/assets/5e53b3fe-5160-4c78-9b67-120793de7c39" />
-
 <img width="1218" height="1280" alt="image" src="https://github.com/user-attachments/assets/0168849c-2ef4-4603-a9a3-12ac988bb64a" />
 
 Open circuit characteristics
-
 <img width="1230" height="836" alt="image" src="https://github.com/user-attachments/assets/d3fcf7f9-042e-4c46-87ab-4bcd21182fd1" />
 
 Load Characteristics:
-
 <img width="1095" height="870" alt="image" src="https://github.com/user-attachments/assets/8495d7a2-20c1-4103-af78-619767f8c6a9" />
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
